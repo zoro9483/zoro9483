@@ -1,6 +1,4 @@
 
-### YOOOOOO YOOOOO YOOOOOU !! Hi there 👋 !! WELCOME TO THE AMAZING ME 😂🙌 GOD BLESS YOU AND ME AND EVERYONE.
-
 - 🔭 I’m currently working on .... building a land page with React , adobe XD , blog page.
 - 🌱 I’m currently learning .... Javascript and React to build a simple landing page.
 - 👯 I’m looking to collaborate on .... building app on blockstack.
