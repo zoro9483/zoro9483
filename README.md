@@ -1,3 +1,7 @@
+Day : 28/2/2021
+Status : doing final exams at cairo university at 3/3 
+City : cairo 
+Mission : building a portfolio website + looking for traning and learn more coding
 
 - 🔭 I’m currently working on ....
 -  building a 
