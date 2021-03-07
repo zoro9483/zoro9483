@@ -1,7 +1,9 @@
-#Day : 07/03/2021
+Day: 07/03/2021
 Status : doing final exams at cairo university at 3/3 
 City : cairo 
 Mission : building a portfolio website + looking for traning and learn more coding
+
+![Twitter Follow](https://img.shields.io/twitter/follow/zoro_94?style=social)
 
 - 🔭 I’m currently working on ....
 -  building a 
