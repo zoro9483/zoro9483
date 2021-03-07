@@ -1,4 +1,4 @@
-Day: 07/03/2021
+# Day: 07/03/2021
 Status : doing final exams at cairo university at 3/3 
 City : cairo 
 Mission : building a portfolio website + looking for traning and learn more coding
@@ -21,7 +21,7 @@ Mission : building a portfolio website + looking for traning and learn more codi
 - 
 - 🤔 I’m looking for .... help with my learning career and how to code effectively.
 - 
-- pronouns : .... he/she .
+- pronouns : .... he/they 🐛.
 
 
 
