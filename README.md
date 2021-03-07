@@ -4,7 +4,7 @@ City : cairo
 Mission : building a portfolio website + looking for traning and learn more coding
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zoro_94?style=social)
-![GitHub stars](https://img.shields.io/github/stars/zoro9483/README.md?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zoro9483?tab=stars?style=social)
 - 🔭 I’m currently working on ....
 -  building a 
  Portfolio with Gatsby /land page with React for startup / Dailychallenges website for coding interview .
