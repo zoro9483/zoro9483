@@ -1,4 +1,4 @@
-# Day:29/05/2021
+# Day:30/05/2021
 Status : Doing final exams at cairo university at 17/3 
 City : cairo 
 Mission : building a portfolio website + looking for traning and learn more coding
