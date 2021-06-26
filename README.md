@@ -1,4 +1,4 @@
-# Day:25/06/2021
+# Day:26/06/2021
 Status : LEARNING WEB DEVELOPER BOOTCAMP  
 City : Dahab, EGYPT
 Mission : building a portfolio website + looking for traning and learn more coding
