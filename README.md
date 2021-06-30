@@ -1,7 +1,7 @@
 # Day 30/06/2021
 Status : LEARNING WEB DEVELOPER BOOTCAMP  
-City : Dahab, EGYPT
-Mission : building a portfolio website + looking for traning and learn more coding
+EGYPT SOON AROUND THE WORLD
+Mission : Looking for Organization to continue developing my coding skills 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zoro_94?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/zoro9483?tab=stars?style=social)
@@ -23,7 +23,7 @@ Mission : building a portfolio website + looking for traning and learn more codi
 
 - 🤔 I’m looking for .... help with my learning career and how to code effectively.
 - 
-- pronouns : .... he/they/whatever you want 🐛.
+- pronouns : .... he/they 🐛.
 
 
 
