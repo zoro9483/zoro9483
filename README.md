@@ -1,6 +1,6 @@
-# Day 30/08/2021
+# Day 31/08/2021
 Status : LEARNING WEB DEVELOPER BOOTCAMP  
-EGYPT SOON AROUND THE WORLD
+
 Mission : Looking for Organization to continue developing my coding skills 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zoro_94?style=social)
