@@ -1,7 +1,7 @@
 # Day 01/09/2021
 Status : LEARNING WEB DEVELOPER BOOTCAMP  
 
-Mission : Looking for Organization to continue developing my coding skills 
+Mission : Looking for job to continue developing my coding skills 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zoro_94?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/zoro9483?tab=stars?style=social)
