@@ -1,4 +1,4 @@
- Day 12/09/2021
+ Day 15/09/2021
 Status : LEARNING WEB DEVELOPER BOOTCAMP  
 
 Mission : Looking for job to continue developing my coding skills 
