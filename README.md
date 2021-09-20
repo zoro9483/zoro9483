@@ -1,28 +1,17 @@
  Day 20/09/2021
+ 
 Status : LEARNING WEB DEVELOPER BOOTCAMP  
 
-Mission : Looking for job to continue developing my coding skills 
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zoro_94?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/zoro9483?tab=stars?style=social)
-- 🔭 I’m currently working on ....
--  building a 
- Portfolio with Gatsby /land page with React for startup / Dailychallenges website for coding interview .
 
-- 🌱 I’m currently learning .... 
-- on Bootcamp course 2021
-- learnig php for backend
-- Javascript and React to build a simple landing page.
-- Sanity.io
-- React.js
- 
-- 👯 I’m looking to collaborate on .... 
-- building app on blockstack.
-- building landing pages.
- 
+Front-end Developer, 
 
-- 🤔 I’m looking for .... help with my learning career and how to code effectively.
-- 
+1- developing the landing page using React for startups is interested in blockchain development and building Dapps on Etherum 
+2- knowledge about node.js and branches and software versioning 
+
 - pronouns : .... he/they 🐛.
 
 
