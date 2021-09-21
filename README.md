@@ -1,4 +1,4 @@
- Day 20/09/2021
+ Day 21/09/2021
  
 Status : LEARNING WEB DEVELOPER BOOTCAMP  
 
@@ -9,8 +9,8 @@ Status : LEARNING WEB DEVELOPER BOOTCAMP
 
 Front-end Developer, 
 
-1- developing the landing page using React for startups is interested in blockchain development and building Dapps on Etherum 
-2- knowledge about node.js and branches and software versioning 
+- developing the landing page using React for startups also interested in blockchain development and building Dapps on Etherum 
+- knowledge about node.js and branches and software versioning 
 
 - pronouns : .... he/they 🐛.
 
