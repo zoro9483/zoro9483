@@ -1,6 +1,12 @@
- Day 18/04/2021
+ Day 15/05/2022
  
 Status : LEARNING WEB DEVELOPER BOOTCAMP  
+
+i wanna add a repo for 
+ ERC721 Tutorial
+ https://docs.opensea.io/docs/getting-started
+ 
+
 
 
 
